@@ -1,0 +1,10 @@
+F:\Visual Studio2015\shenh.visualstudio.com\M_DLL_Leo\M_DLL_Leo\bin\Debug\M_DLL_Leo.dll
+F:\Visual Studio2015\shenh.visualstudio.com\M_DLL_Leo\M_DLL_Leo\bin\Debug\M_DLL_Leo.pdb
+F:\Visual Studio2015\shenh.visualstudio.com\M_DLL_Leo\M_DLL_Leo\bin\Debug\MySql.Data.dll
+F:\Visual Studio2015\shenh.visualstudio.com\M_DLL_Leo\M_DLL_Leo\bin\Debug\MySql.Data.Entity.EF5.dll
+F:\Visual Studio2015\shenh.visualstudio.com\M_DLL_Leo\M_DLL_Leo\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\Visual Studio2015\shenh.visualstudio.com\M_DLL_Leo\M_DLL_Leo\bin\Debug\MySql.Web.dll
+F:\Visual Studio2015\shenh.visualstudio.com\M_DLL_Leo\M_DLL_Leo\bin\Debug\Newtonsoft.Json.dll
+F:\Visual Studio2015\shenh.visualstudio.com\M_DLL_Leo\M_DLL_Leo\obj\Debug\M_DLL_Leo.dll
+F:\Visual Studio2015\shenh.visualstudio.com\M_DLL_Leo\M_DLL_Leo\obj\Debug\M_DLL_Leo.pdb
+F:\Visual Studio2015\shenh.visualstudio.com\M_DLL_Leo\M_DLL_Leo\obj\Debug\M_DLL_Leo.csprojResolveAssemblyReference.cache
